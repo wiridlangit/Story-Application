@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoryApplication</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Yuk sama sama kita lihat story dari user Dicoding!</string>
+    <string name="title_welcome_page">Selamat datang di Story Application!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk lihat story?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar (Logout)</string>
+    <string name="empty_image_warning">Please select an image first</string>
+    <string name="invalid_email_error">Email tidak valid</string>
+    <string name="invalid_password_error">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="invalid_name_error">Nama tidak boleh kosong</string>
+    <string name="more">More menu</string>
+    <string name="password_edit_text_description">Password input field with toggleable visibility</string>
+    <string name="add_story">add story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="enter_description">Enter description</string>
+    <string name="upload">Upload</string>
+    <string name="preview_image">Preview Image</string>
+    <string name="include_my_location">Include my location</string>
+
+
+</resources>
